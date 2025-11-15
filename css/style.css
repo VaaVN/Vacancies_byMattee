@@ -1,4 +1,5 @@
 @import "reset.css";
+@import url("https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200..700&display=swap");
 * {
   box-sizing: border-box;
   overflow: visible;
